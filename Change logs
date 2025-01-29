@@ -4,6 +4,8 @@ into their own tabs, UI changes may be pending, especially with any new features
 Fix of bugs, the save system had it's own bugs, but it should be resolved such as preventing the save sheet options from defaulting back to the begginning, also the same
 is done with the maths system.
 
+Major patch:
+Users may have noticed that their maths saves didn't save any more than 1 variable, that has been now resolved, allowing for all variables to be saed.
 
 Pending changes:
 A logic system for maths system, this allows even more flexibility, and may cause a few changes, however I am hoping to prevent any sort breaking of the save system with this. 
